@@ -108,8 +108,6 @@ python -m src.main
 
 ¿Interesado en mejorar la seguridad biométrica? ¡Las contribuciones son bienvenidas!
 
-**Autor**: [Daniel Zorita](https://www.linkedin.com/in/daniel-zorita-alonso-020140231/)
-**Email**: daniel.zorita.alonso@gmail.com
 
 ---
 *BioPass: Seguridad Inteligente, Privacidad Garantizada.*
