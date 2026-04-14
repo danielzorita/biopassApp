@@ -1,0 +1,7 @@
+customtkinter
+opencv-contrib-python
+python-dotenv
+numpy
+Pillow
+requests
+psycopg2-binary
